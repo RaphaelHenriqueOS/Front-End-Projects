@@ -1,0 +1,29 @@
+body{
+    background-image: url('temaSegunda.jpg');
+    background-size: cover;
+    
+}
+
+.quantidadeParticipantes{
+    width: 50px;
+    height: px;
+    margin-top: 5px;
+    color: chocolate;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.tiposDeCarnes{
+    margin-top: 30px;
+}
+
+.mulheres{
+    margin-top: -25px;
+    margin-left: 180px;
+}
+
+.criancas{
+    margin-top: -27px;
+    margin-left: 360px;
+}
