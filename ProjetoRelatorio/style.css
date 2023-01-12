@@ -1,0 +1,15 @@
+h1 {
+    background-color: aquamarine;
+    color: blueviolet;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+#Paciente{
+    width: 500px;
+}
+
+#Obs{
+    width: 400px;
+}
